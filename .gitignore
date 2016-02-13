@@ -19,3 +19,7 @@ project/plugins/project/
 # InteliJ IDEA
 *.iml
 .idea/*
+
+# OS X
+.DS_Store
+*/.DS_Store
